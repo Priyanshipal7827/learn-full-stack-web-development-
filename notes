@@ -18,9 +18,25 @@ web development are devides into two types :
  And databases are lso part of backebd technilogy  its including technologies are : Mysql, mongoDB, PostgreSQL.
  That's means handling both technologies are called full stack web development.
 
-Network : network that's connect many device's to each other like    mobile, computer, laptop etc.
+Network : network that connect many device's to each other ike           mobile, computer, laptop etc.
  Network are works in differnets types of scale like LAN (local area  network), MAN (melopolitron area network), WAN(wide ara network)
 
 Internet :
  Internet is a global system where billinors of devices connected to each other.
  Internet is a global network of computers that connected to each other and can share information with each other.
+
+IP Address : 
+ IP address (Internet protocol address) is a unique number assigned to every device connect into internet.
+
+Browser : 
+ Browser is a software or application to open and view website on the internet.
+ 
+Browser engines : google, edge, opera, firefox, safari etc.
+
+Client :
+ Client is send the request to browser and receive the website or given response. like laptop, mobile, computer etc.
+
+Server : 
+ Server is a powerful computer that store website, app, or data and sends it to client when client request it.
+ Server are many types : like database server, file server, app server, web server, email server etc.
+ 
