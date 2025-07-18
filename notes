@@ -1,15 +1,15 @@
 Web development : web development means creating websites and web application that run on the internet.
 
 Web development :
-I. website : website is a static process that's included only reading part.
+I. website : website is a static process that's included only reading    part.
 II. web application : web application is a dynamic process that's included the text, pictures, post's, colors, icon, and animes etc.
 
 
 web development are devides into two types :
 1. Frontend development :
-This is part of the website that you can see and interact with UI of web design (like buttons, test, icons, colors, images.)
-Main languages are used in this HTML CSS JavaScript.
-And frameworks and librares are React.js, angular, tailwind css , bootstrab etc.
+ This is part of the website that you can see and interact with UI of web  design (like buttons, test, icons, colors, images.)
+ Main languages are used in this HTML CSS JavaScript.
+ And frameworks and librares are React.js, angular, tailwind css ,  bootstrab etc.
 
 2. Backend development :
  It's also called sever side development 
@@ -17,3 +17,10 @@ And frameworks and librares are React.js, angular, tailwind css , bootstrab etc.
  Use backend technologeies/ languages : javascript(node.js), python(Django, flask), java(spring boots), php, ruby.
  And databases are lso part of backebd technilogy  its including technologies are : Mysql, mongoDB, PostgreSQL.
  That's means handling both technologies are called full stack web development.
+
+Network : network that's connect many device's to each other like    mobile, computer, laptop etc.
+ Network are works in differnets types of scale like LAN (local area  network), MAN (melopolitron area network), WAN(wide ara network)
+
+Internet :
+ Internet is a global system where billinors of devices connected to each other.
+ Internet is a global network of computers that connected to each other and can share information with each other.
